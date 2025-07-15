@@ -1,0 +1,14 @@
+*
+!.gitignore
+
+
+
+# /data/
+# /doc/
+# /notebooks/
+# /test/
+# /results/
+# /visualization/
+# /code_past/
+# /src/
+# /requirements.txt
